@@ -160,7 +160,6 @@ header{
     background-position: center;
     height:100vh;
 	background-attachment: fixed;
-	background-color:red;
 	color:blue;
     
 }
@@ -440,7 +439,7 @@ blockquote cite:before{
 	width:60%;
 }
 .works-step{
-	margin bottom: 50px;
+	margin-bottom: 50px;
 }
 
 .work-step:last-of-type{
