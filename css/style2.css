@@ -154,8 +154,8 @@ input[type=submit]:hover{
 
 /*HEADER CODE*/
 header{
-	/* background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(http://richardtheogene.com/assets/images/hero.jpg); */
-	background-image: url("C:\Users\will\Desktop\Sundays-deli\Sundays-Deli\images\sundaysdel1.jpg");
+	background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(http://richardtheogene.com/assets/images/hero.jpg);
+	/* background-image: url("C:\Users\will\Desktop\Sundays-deli\Sundays-Deli\images\sundaysdel1.jpg"); */
 	background-size: cover;
     background-position: center;
     height:100vh;
