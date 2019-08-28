@@ -154,8 +154,9 @@ input[type=submit]:hover{
 
 /*HEADER CODE*/
 header{
-	background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(http://richardtheogene.com/assets/images/hero.jpg);
-    background-size: cover;
+	/* background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(http://richardtheogene.com/assets/images/hero.jpg); */
+	background-image: url("images\sundaysdel1.jpg");
+	background-size: cover;
     background-position: center;
     height:100vh;
     background-attachment: fixed;
