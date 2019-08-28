@@ -55,7 +55,7 @@ a:active,
 a:hover{
 	color:#555;
 	border-bottom: 1px solid transparent;
-	transition: border-bottom  1.2s, color 1.2s;
+	transition: border-bottom   1.2s, color 1.2s;
 	/*background-color: #c0392b;
 	transition: background-color .2s, border .2s , color .3s;*/
 
@@ -160,7 +160,7 @@ header{
     background-position: center;
     height:100vh;
 	background-attachment: fixed;
-	color:blue;
+	background-color:blue;
     
 }
 /*header {
